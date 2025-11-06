@@ -84,7 +84,8 @@ Frontend runs on 👉 http://localhost:5173
 ## 🖼️ Screenshots
 
 ### 🛍️ Products Page
-![Products Page](./screenshots/products.png)
+![Products Page](<img width="1881" height="850" alt="image" src="https://github.com/user-attachments/assets/9ff649ed-519c-4f6a-ae8b-749dcb72d6de" />
+)
 
 ### 🛒 Cart Page
 ![Cart Page](./screenshots/cart.png)
