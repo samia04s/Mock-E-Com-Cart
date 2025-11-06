@@ -81,16 +81,21 @@ Frontend runs on 👉 http://localhost:5173
 4. Click “Proceed to Checkout” 💳
 
 5. Checkout page shows payment success & clears cart
-## 🖼️ Screenshots
+
+
+## 🖼️ Screenshots 
 
 ### 🛍️ Products Page
-![Products Page](https://github.com/samia04s/Mock-E-Com-Cart/blob/main/screenshots/products.png?raw=true)
+
+![Products Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/products.png)
+
 
 ### 🛒 Cart Page
-![Cart Page](./screenshots/cart.png)
+![Cart Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/cart.png)
 
 ### 💳 Checkout Page
-![Checkout Page](./screenshots/checkout.png)
+![Checkout Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/checkout.png)
 
-### 💳 Checkout Page
-![Transaction Page](./screenshots/Transaction.png)
+### 💵 Transaction Page
+![Transaction Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/transaction.png)
+
