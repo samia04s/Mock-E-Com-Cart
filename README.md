@@ -84,8 +84,7 @@ Frontend runs on 👉 http://localhost:5173
 ## 🖼️ Screenshots
 
 ### 🛍️ Products Page
-![Products Page](<img width="1881" height="850" alt="image" src="https://github.com/user-attachments/assets/9ff649ed-519c-4f6a-ae8b-749dcb72d6de" />
-)
+![Products Page](https://github.com/samia04s/Mock-E-Com-Cart/blob/main/screenshots/products.png?raw=true)
 
 ### 🛒 Cart Page
 ![Cart Page](./screenshots/cart.png)
