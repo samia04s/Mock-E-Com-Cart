@@ -84,13 +84,13 @@ Frontend runs on 👉 http://localhost:5173
 ## 🖼️ Screenshots
 
 ### 🛍️ Products Page
-![Products Page](screenshots\products.png)
+![Products Page](./screenshots/products.png)
 
 ### 🛒 Cart Page
-![Cart Page](screenshots\cart.png)
+![Cart Page](./screenshots/cart.png)
 
 ### 💳 Checkout Page
-![Checkout Page](screenshots\checkout.png)
+![Checkout Page](./screenshots/checkout.png)
 
 ### 💳 Checkout Page
-![Transaction Page](screenshots\Transaction.png)
+![Transaction Page](./screenshots/Transaction.png)
