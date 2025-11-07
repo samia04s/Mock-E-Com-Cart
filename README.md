@@ -87,7 +87,7 @@ Frontend runs on 👉 http://localhost:5173
 ## 🖼️ Screenshots 
 
 Please refer to the screenshots section in the repo
-![Demo App](//screenshots/Transaction.png)
+![Demo App](/screenshots/Transaction.png)
 
 ## 🎥 Demo Video
 [Watch the Unlisted Demo on YouTube](https://youtu.be/4Ux__qc8V3k)
