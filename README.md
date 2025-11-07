@@ -1,4 +1,5 @@
-A simple **full-stack shopping cart app** built for the Nexora Full Stack Development assignment.  
+A simple **full-stack shopping cart app** . 
+
 It demonstrates core e-commerce flows including **product listing, add/remove to cart, cart total calculation, and checkout receipt generation**, using mock data (no actual payments).
 
 ---
@@ -85,17 +86,8 @@ Frontend runs on 👉 http://localhost:5173
 
 ## 🖼️ Screenshots 
 
-### 🛍️ Products Page
+Please refer to the screenshots section in the repo 
 
-<img width="1881" height="850" alt="Image" src="https://github.com/user-attachments/assets/e4bebacc-1a1b-4643-80af-f4ed3d5346e9" />
-
-
-### 🛒 Cart Page
-![Cart Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/cart.png)
-
-### 💳 Checkout Page
-![Checkout Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/checkout.png)
-
-### 💵 Transaction Page
-![Transaction Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/transaction.png)
+## 🎥 Demo Video
+[Watch the Unlisted Demo on YouTube](https://youtu.be/4Ux__qc8V3k)
 
