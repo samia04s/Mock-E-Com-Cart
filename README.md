@@ -87,7 +87,7 @@ Frontend runs on 👉 http://localhost:5173
 
 ### 🛍️ Products Page
 
-![Products Page](https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/products.png)
+![Products Page]([https://raw.githubusercontent.com/samia04s/Mock-E-Com-Cart/main/screenshots/products.png](https://github.com/samia04s/Mock-E-Com-Cart/blob/a48a733303aa1eb2babf111537f7cd2392528a5f/Screenshot%202025-11-06%20222700.png))
 
 
 ### 🛒 Cart Page
